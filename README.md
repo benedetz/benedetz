@@ -1,4 +1,4 @@
-# Hi there, I'm Zachary Benedetti 👋
+# Hi there, I'm Zach Benedetti 👋
 
 I'm a Computer Science student at **Oregon State University**, passionate about software development, data analytics, and AI. I love building scalable systems and working on projects that have a real-world impact. I am always eager to learn and collaborate with others to solve complex problems.
 
