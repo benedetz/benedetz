@@ -34,7 +34,6 @@ Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/zach-benedet
 ---
 
 Thanks for visiting my GitHub profile!
-"""
 
 <!---
 benedetz/benedetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
