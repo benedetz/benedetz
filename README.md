@@ -22,7 +22,7 @@ Expected Graduation: **June 2026**
 
 ## 🌱 Currently Learning
 
-- AI and machine learning techniques to improve public services.
+- CAPSTONE: AI and machine learning techniques to improve the Lane Transit District. (Malloy, BQ, GCP, SQL, Python)
 - Full-stack development with a focus on modern web frameworks.
 
 ---
